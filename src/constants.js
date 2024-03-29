@@ -1,1 +1,1 @@
-export const DB_NAME = 'honeybase'; 
+export const DB_NAME = 'honeybase';
